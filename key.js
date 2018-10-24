@@ -1,4 +1,4 @@
-// npm-library
+// npm-library ro-yu do
 const Wallet = require('ethereumjs-wallet');
 const keccak256 = require('js-sha3').keccak256;
 
